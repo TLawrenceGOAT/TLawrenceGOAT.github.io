@@ -5,5 +5,5 @@
 layout: home
 heading: BlogGOAT
 subheading: The Greatest Blog of All Time
-banner: /assets/images/homepage.mp4
+banner: /assets/images/homepage.gif
 ---

@@ -5,5 +5,5 @@
 layout: home
 heading: BlogGOAT
 subheading: The Greatest Blog of All Time
-banner: default
+banner: /assets/images/dante_hall_juke.gif
 ---

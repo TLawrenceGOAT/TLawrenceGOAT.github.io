@@ -6,4 +6,5 @@ layout: home
 heading: BlogGOAT
 subheading: The Greatest Blog of All Time
 banner: /assets/images/homepage.gif
+# https://ezgif.com/maker/ezgif-3-bb46570d-gif-equalized
 ---

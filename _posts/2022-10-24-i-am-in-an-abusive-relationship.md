@@ -5,12 +5,11 @@ date:   2022-10-24 10:47:00 -0400
 categories: sports jaguars
 permalink: /:title
 ---
-
 I've always found it difficult to understand why people in abusive or toxic relationships struggle to leave those relationships. It never made any sense. If your significant other treats you like shit, makes you unhappy more than they make you happy, or simply has no regard for your feelings, remove that person from your life and don't look back. You'll be better off.
 
 The most obvious form of abuse is physical. Please call 800-799-7233 if you experience any form of domestic violence. The lesser known form of abuse comes in a much more nuanced manner. After doing some [research](https://www.newportinstitute.com/resources/co-occurring-disorders/how-to-know-abusive-relationship/), I found that there are 4 categories of emotionally abusive behavior:
 
-{% highlight %}
+{% highlight quote %}
 Humiliation: insulting, criticizing, name-calling, embarrassing the other person in public, belittling their accomplishments, posting unflattering photos or videos of them on social media
 Control: acting jealous and possessive, monitoring the other person’s behavior, reading their texts and emails, demanding all their time and attention, pressuring them to use drugs or alcohol, using social media to track their activities, trying to control who they follow on social media
 Blaming and gaslighting: accusing the other person of cheating, denying abusive behavior or blaming it on the victim, claiming their problems are the other person’s fault
@@ -19,7 +18,7 @@ Neglect and isolation: refusing to communicate, turning other people against the
 
 If you experience even one of these, seek help from family and friends. Thanks to the Newport Institute, we know 10 signs that might give someone more specific examples of emotional abuse to look for in their own relationship.
 
-{% highlight %}
+{% highlight quote %}
 1. You don’t feel free to make your own choices.
 2. You’re always apologizing.
 3. You don’t talk about the relationship with friends or family.

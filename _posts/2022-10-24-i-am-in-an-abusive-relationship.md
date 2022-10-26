@@ -5,7 +5,6 @@ date:   2022-10-24 10:47:00 -0400
 categories: sports jaguars
 permalink: /:title
 ---
-
 I've always found it difficult to understand why people in abusive or toxic relationships struggle to leave those relationships. It never made any sense. If your significant other treats you like shit, makes you unhappy more than they make you happy, or simply has no regard for your feelings, remove that person from your life and don't look back. You'll be better off.
 
 The most obvious form of abuse is physical. Please call 800-799-7233 if you experience any form of domestic violence. The lesser known form of abuse comes in a much more nuanced manner. After doing some [research](https://www.newportinstitute.com/resources/co-occurring-disorders/how-to-know-abusive-relationship/), I found that there are 4 categories of emotionally abusive behavior:

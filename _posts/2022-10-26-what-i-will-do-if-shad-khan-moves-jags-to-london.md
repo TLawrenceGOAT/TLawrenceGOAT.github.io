@@ -2,6 +2,7 @@
 layout: post
 title: What I Will Do If Shad Khan Moves the Jags to London
 date: 2022-10-26 10:50:00 -0400
+author: Jacksonville Johnny
 categories: sports jaguars
 permalink: /:title
 ---

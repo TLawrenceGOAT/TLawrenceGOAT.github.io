@@ -4,6 +4,7 @@ title: Welcome to BlogGOAT
 date: 2022-10-13 08:49:00 -0400
 categories: intro personal
 permalink: /:title
+author: TLawrenceGOAT
 ---
 Thank you for finding my new blog BlogGOAT! This will be a interesting adventure for both you and me--I have no idea how to build a website or write a blog, but here I am attempting to do both. The main topic I'm looking to cover on here is sports, although who knows what this will become. There's a nonzero chance this is the only blog posted on this site (credit to me for knowing myself).
 

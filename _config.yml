@@ -23,9 +23,9 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Greatest Blog of All Time
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://carsonmiiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://TLawrenceGOAT.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TLawrenceGOAT
-github_username:  carsonmiiller
+github_username:  TLawrenceGOAT
 
 # Build settings
 #theme: minima
@@ -42,7 +42,6 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Carson Miller
       permalink: /:title
 
 # Exclude from processing.

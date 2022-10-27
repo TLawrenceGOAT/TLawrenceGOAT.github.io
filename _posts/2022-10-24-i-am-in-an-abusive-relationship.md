@@ -4,6 +4,7 @@ title: I Am In An Abusive Relationship
 date:   2022-10-24 10:47:00 -0400
 categories: sports jaguars
 permalink: /:title
+author: TLawrenceGOAT
 ---
 I've always found it difficult to understand why people in abusive or toxic relationships struggle to leave those relationships. It never made any sense. If your significant other treats you like shit, makes you unhappy more than they make you happy, or simply has no regard for your feelings, remove that person from your life and don't look back. You'll be better off.
 

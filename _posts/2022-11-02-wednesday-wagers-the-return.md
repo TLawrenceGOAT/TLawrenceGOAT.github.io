@@ -18,6 +18,8 @@ Without further ado, let's get right into the picks!
 
 **Jaguars/Raiders u48**
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trevor Lawrence throws another INT and the <a href="https://twitter.com/SSN_Broncos?ref_src=twsrc%5Etfw">@SSN_Broncos</a> will run out the clock on a much much needed win <a href="https://twitter.com/hashtag/LetsRide?src=hash&amp;ref_src=twsrc%5Etfw">#LetsRide</a> <a href="https://t.co/5jCfI7ffQ8">pic.twitter.com/5jCfI7ffQ8</a></p>&mdash; Sidelines Sports Network™ (@Sidelines_SN) <a href="https://twitter.com/Sidelines_SN/status/1586756888678567938?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Both of these teams suck. Unless you are a Raiders or Jaguars fan (god bless your soul) or some kind of sicko, you have no excuse to watch this toilet bowl. Derek Carr has such a dumb-dumb brain, making the excessive eyeliner he wears somehow not his worst characteristic. Trevor Lawrence's turnovers have been the reason the Jaguars aren't winning games. Unders are 71-51-1 this season. You do the math there. Place the bet and forget. You will thank me later.
 
 ### Pick #2
@@ -30,6 +32,8 @@ Two sad stories going on with these teams. The older generation of QBs are falli
 
 **Chiefs/Titans o46.5**
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Derrick Henry is an absolute freak of nature <a href="https://t.co/2MGdYhySCi">pic.twitter.com/2MGdYhySCi</a></p>&mdash; Mike Herndon (@MikeHerndonNFL) <a href="https://twitter.com/MikeHerndonNFL/status/1587651702143983616?ref_src=twsrc%5Etfw">November 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Ladies and gentlemen, it is Tractorcito season. Derrick Henry just had his 6th career 200-yard, 2-TD rushing game (his 4th just against the Texans). Only 3 other people have 3 or more of these: LaDainian Tomlinson, Barry Sanders, and Jim Brown—they all have 3. Mean while, Patrick Mahomes has been building chemsitry with his new WRs Juju Smith-Schuster and Marques Valdes-Scantling (typing that out made me realize how unique both of their names are) under the safety blanket of Future HoFer Travis Kelce. This game screams points.
 
 ### Pick #4
@@ -41,6 +45,8 @@ This one is a total gut pick. I love watching Lamar Jackson play football. He's 
 ### WHALE PLAY LOCK OF THE WEEK
 
 ***Falcons +3***
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kyle Pitts with a rare TD!<a href="https://t.co/bfatZGTPMW">pic.twitter.com/bfatZGTPMW</a></p>&mdash; Dov Kleiman (@NFL_DovKleiman) <a href="https://twitter.com/NFL_DovKleiman/status/1586777709513932800?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I haven't seen anything I like from the Chargers this season. They were supposed to be competing for the 1 seed in the AFC with the Chiefs and Bills, if you listen to the media. Herbert might still be hurt or injured, and they've been without Keenan Allen for a while now. But this pick is more about the fact that the NFC South Division Leader Atlanta Falcons are 6-2 ATS this season. I saw Kyle Pitts catch a touchdown this past weekend and boy was I impressed. Cordarrelle Patterson will most likely be back (hopefully). Also, they are 3-0 ATS this season as home underdogs. Underdogs are 68-51-4 ATS this season. This is an automatic win. Free money.
 

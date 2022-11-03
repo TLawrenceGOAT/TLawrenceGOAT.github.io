@@ -7,6 +7,7 @@ permalink: /:title
 author: TLawrenceGOAT
 ---
 Well, if you read the ~unrelated tangent~ of [one of my previous blogs](./2022-10-27-why-tom-brady-playing-like-trash.md) you may know that football and I have had a rather complicated relationship recently. I truly believed the Jacksonville Jaguars had left behind the years and years (and years) of terrible football after a dominating Week 3 win over the LA Chargers.
+
 <div align="center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">If we hold on to this big juicy W, I will be fully committed to believing. <a href="https://t.co/2R9YKDGKyk">https://t.co/2R9YKDGKyk</a></p>&mdash; future AFC south champ (@TLawrenceGOAT) <a href="https://twitter.com/TLawrenceGOAT/status/1574153884494450689?ref_src=twsrc%5Etfw">September 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 Oh boy, did the Jags have me believing.

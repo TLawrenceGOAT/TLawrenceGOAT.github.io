@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to BlogGOAT
 date: 2022-10-13 08:49:00 -0400
-categories: intro personal
+categories: intro op-ed
 permalink: /:title
 author: TLawrenceGOAT
 ---

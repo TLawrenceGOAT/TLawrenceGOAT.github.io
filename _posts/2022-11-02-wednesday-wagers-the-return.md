@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday Wagers: The Return"
 date: 2022-11-02 21:54:00 -0400
-categories: sports wednesday-wagers
+tags: sports wednesday-wagers
 permalink: /:title
 author: TLawrenceGOAT
 ---

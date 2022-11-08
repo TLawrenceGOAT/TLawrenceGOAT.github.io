@@ -2,7 +2,7 @@
 layout: post
 title: Why Tom Brady's Playing Like Trash
 date: 2022-10-27 22:49:00 -0400
-categories: sports football
+tags: sports football
 permalink: /:title
 author: TLawrenceGOAT
 ---

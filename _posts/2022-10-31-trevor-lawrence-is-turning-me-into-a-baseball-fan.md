@@ -2,7 +2,7 @@
 layout: post
 title: Trevor Lawrence Is Turning Me Into A Baseball Fan
 date: 2022-10-31 20:49:00 -0400
-categories: sports jaguars
+tags: sports jaguars
 permalink: /:title
 author: TLawrenceGOAT
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: I Am In An Abusive Relationship
 date:   2022-10-24 22:47:00 -0400
-categories: sports jaguars
+tags: sports jaguars
 permalink: /:title
 author: TLawrenceGOAT
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: The Colts Are Restarting Their Franchise From Square One
 date: 2022-11-07 21:12:00 -0400
-tags: sports football
+categories: sports football
 permalink: /:title
 author: TLawrenceGOAT
 ---

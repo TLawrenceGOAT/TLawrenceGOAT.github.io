@@ -36,14 +36,6 @@ remote_theme: "TLawrenceGOAT/jekyll-theme-BlogGOAT"
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-    values:
-      layout: post
-      permalink: /:title
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

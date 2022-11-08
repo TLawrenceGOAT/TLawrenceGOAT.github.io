@@ -2,7 +2,7 @@
 layout: post
 title: The Only Thing Worse To See In A Gym Locker Room Than A Naked Old Man
 date:   2022-10-26 23:28:00 -0400
-tags: op-ed
+categories: op-ed
 permalink: /:title
 author: TLawrenceGOAT
 ---

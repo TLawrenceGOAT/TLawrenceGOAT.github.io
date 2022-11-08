@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Jaguars Offense Proves They ARE Capable Of Scoring Points After All"
-date:   2022-11-06 2:33:00 -0400
-categories: sports jaguars
+title: Jaguars Offense Proves They ARE Capable Of Scoring Points After All
+date: 2022-11-06 14:33:00 -0400
+categories: sports jaguars football
 permalink: /:title
 author: TLawrenceGOAT
 ---

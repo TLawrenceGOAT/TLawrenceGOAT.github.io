@@ -49,12 +49,23 @@ header_pages:
   - about.md
 
 # Gitment comments
-gitment:
-  username: TLawrenceGOAT
-  repo: BlogGOAT-comments
-  client_id: 6400f2751f0321b5492c
-  client_secret: 527260d077d6915d73db4562ee3a25673c29010a
+# gitment:
+#   username: TLawrenceGOAT
+#   repo: BlogGOAT-comments
+#   client_id: 6400f2751f0321b5492c
+#   client_secret: 527260d077d6915d73db4562ee3a25673c29010a
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
+
+# Utterances comments
+# See https://utteranc.es/
+# set follow_site_theme true to make utterances' theme follow the site's
+
+utterances:
+  repo: "TLawrenceGOAT/BlogGOAT-comments"
+  issue_term: "title"
+  label: "utterances comment"
+  theme: "github-light"
+  follow_site_theme: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -10,7 +10,7 @@ It is my pleasure to announce the long-awaited return of Wednesday Wagers. For t
 
 That makes this a great opportunity for a fresh start. Every* Wednesday, I will provide you with my 5 best NFL picks of the week. I GUARANTEE** you will make money if you follow me play by play. All wagers will be backed by my computer model that only looks at the deepest of numbers and sharpest of trends.
 
-I am giving out these 4 of these picks free of charge. However, if you would like access to my **Whale Play Lock Of The Week**, sponsored by Lizzo, you will first have to share this blog with a friend. This is my absolute best bet of the week and is sure to have you retiring before 30.
+I am giving out these 4 of these picks free of charge. However, if you would like access to my **Whale Play Lock Of The Week**, you will first have to share this blog with a friend. This is my absolute best bet of the week and is sure to have you retiring before 30.
 
 Without further ado, let's get right into the picks!
 

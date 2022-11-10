@@ -20,11 +20,11 @@ If you only watched the first 1/3 of the Chiefs/Titans game, you probably would'
 
 The Ravens dominated the Saints from start to finish, firmly tossing their metaphorical hats into the Contenders Ring. They ran the damn ball with authority and played stout defense against a struggling Saints team. Another easy winner.
 
-Now, we get to the bad beat of the week. With under a minute left in the game, the Chargers and Falcons were all tied up at 17. Justin Herbert had dinked-and-dunked his offense down inside the Falcons' 25, and then this happened:
+Now, we get to the bad beat of the week (was a push not a loss, but still a crazy ending). With under a minute left in the game, the Chargers and Falcons were all tied up at 17. Justin Herbert had dinked-and-dunked his offense down inside the Falcons' 25, and then this happened:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A DOUBLE FUMBLE? <a href="https://t.co/OrJkspBCPc">pic.twitter.com/OrJkspBCPc</a></p>&mdash; uSTADIUM (@uSTADIUM) <a href="https://twitter.com/uSTADIUM/status/1589361081633628160?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-No more needs to be said about that, so let's move on to Week 10!
+Herbert got them back well within FG range on the very next play and Cameron Dicker kicked a game-winning FG as time expired. No more needs to be said about that, so let's move on to Week 10!
 
 ### Record
 

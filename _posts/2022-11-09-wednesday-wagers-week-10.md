@@ -2,7 +2,7 @@
 layout: post
 title: Wednesday Wagers Week 10
 date: 2022-11-09 20:18:00 -0400
-categories: sports football
+categories: sports football wednesday-wagers
 permalink: /:title
 author: TLawrenceGOAT
 ---

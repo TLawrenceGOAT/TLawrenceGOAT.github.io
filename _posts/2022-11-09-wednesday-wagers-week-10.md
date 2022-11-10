@@ -26,7 +26,7 @@ Now, we get to the bad beat of the week. With under a minute left in the game, t
 
 No more needs to be said about that, so let's move on to Week 10!
 
-##### Record
+### Record
 
 | Last Week | Season |
 | :---: | :---: |
